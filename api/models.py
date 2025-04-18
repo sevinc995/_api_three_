@@ -25,3 +25,4 @@ news3 = News(
 )
 
 news_list = [news1, news2, news3]
+
